@@ -73,6 +73,7 @@ function T1stop() {
 stopButton.addEventListener('click', T1stop);
 let a = "der";
 let b = "das";
+let c = "dem";
 
 console.log(min)
 
