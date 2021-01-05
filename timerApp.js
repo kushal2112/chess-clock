@@ -80,4 +80,4 @@ console.log(min)
 // console.log(document.querySelector('.add').textContent);
 // console.log(document.querySelector('.sub').textContent);
 
-console.log("hello");
+console.log("hiii");
