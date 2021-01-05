@@ -70,6 +70,7 @@ function T1stop() {
     clearInterval(clearT12)
 }
 
+let d = "change in 3rd";
 stopButton.addEventListener('click', T1stop);
 let a = "der";
 let b = "das";
