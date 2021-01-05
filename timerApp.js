@@ -81,3 +81,4 @@ console.log(min)
 // console.log(document.querySelector('.sub').textContent);
 
 console.log("hiii");
+console.log("master2");
