@@ -1,5 +1,7 @@
 'use strict';
 
+console.log("hii rama");
+
 // console.log(document.querySelector('.msg').textContent);
 document.querySelector('.start').textContent;
 document.querySelector('.stop');
