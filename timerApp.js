@@ -71,7 +71,7 @@ function T1stop() {
 }
 
 let d = "change in 3rd";
-let 6 = "chage on 6th jan";
+let f = "chage on 6th jan";
 stopButton.addEventListener('click', T1stop);
 let a = "der";
 let b = "das";
